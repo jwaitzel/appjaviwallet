@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "wallet-mobile-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/coinbase/wallet-mobile-sdk",
+      "state" : {
+        "revision" : "35b8718c89567cf816f74c60c2b9415c230d2410",
+        "version" : "1.0.3"
+      }
+    }
+  ],
+  "version" : 2
+}
